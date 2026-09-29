@@ -2,3 +2,5 @@ Pildora Bootcamp 29 de septiembre de 2026. **Arquitectura e indexación interna 
 
 
 https://graphia-mu.vercel.app/
+
+https://yohperez.github.io/vecdb/
